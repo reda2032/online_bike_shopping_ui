@@ -1,4 +1,4 @@
 class AppFonts {
   const AppFonts._();
-//  static const tenorSans = 'TenorSans';
+  static const poppinsMedium = 'Poppins-Medium';
 }
