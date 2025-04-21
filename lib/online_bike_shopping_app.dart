@@ -7,7 +7,7 @@ class OnlineBikeShoppingApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Online Bike Shopping',
+      title: 'Bike Shopping',
       theme: ThemeData(
         // This is the theme of your application.
         //
