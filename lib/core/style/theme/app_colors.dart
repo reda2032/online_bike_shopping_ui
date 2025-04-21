@@ -4,18 +4,13 @@ class AppColors {
   const AppColors._();
 
   // primary
-  static const primary = Color(0xFFA8715A);
-  static const secondary = Color(0xFFDD8560);
-  static const titleActive = Color(0xFF000000);
-  static const body = Color(0xFF333333);
-  static const label = Color(0xFF555555);
-  static const placeholder = Color(0xFF888888);
-  static const line = Color(0xFFE0CFBA);
-  static const inputBackground = Color(0xFFF8F8F8);
-  static const background = Color(0xFFF8F0E7);
-  static const offWhite = Color(0xFFFCFCFC);
-  static const grey = Color(0xFF727272);
-  static const grey01 = Color(0xFFE7EAEF);
+
+  static const primary00 = Color(0xFF242C3B);
+  static const primary01 = Color(0xFF252D3C);
+  static const primary02 = Color(0xFF37B6E9);
+  static const primary03 = Color(0xFF4B4CED);
+  static const primary04 = Color(0xFF353F54);
+  static const primary05 = Color(0xFF222834);
 
   // grey scale
   static const grey900 = Color(0xff0d0d12);
