@@ -2,10 +2,13 @@
 class Assets {
   Assets._();
 
+  static const String assetsFontsPoppinsMedium = 'assets/fonts/Poppins-Medium.ttf';
   static const String coreEmptyScreen = 'assets/images/core/empty_screen.png';
   static const String coreNoNetwork = 'assets/images/core/no_network.jpg';
   static const String corePageUnderBuild = 'assets/images/core/page_under_build.jpg';
+  static const String fontsPoppinsBold = 'assets/fonts/Poppins-Bold.ttf';
   static const String fontsPoppinsMedium = 'assets/fonts/Poppins-Medium.ttf';
+  static const String fontsPoppinsRegular = 'assets/fonts/Poppins-Regular.ttf';
   static const String homeBike01 = 'assets/images/home/bike01.png';
   static const String homeBike02 = 'assets/images/home/bike02.png';
   static const String homeBike03 = 'assets/images/home/bike03.png';
